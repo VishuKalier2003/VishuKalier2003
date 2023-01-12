@@ -4,5 +4,3 @@ Hello Everyone, Myself, Vishu Kalier, currently persuing Integrated Mtech in Art
 VishuKalier2003/VishuKalier2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=VishuKalier2003&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/VishuKalier2003/github-readme-stats)
