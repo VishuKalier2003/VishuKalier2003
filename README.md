@@ -1,55 +1,232 @@
-Hello Everyone, Myself, Vishu Kalier, currently persuing ***Integrated Mtech in Artificial Intelligence and Machine Learning***. I am having a knowledge of Coding in various languages especially ***Python, Java, C, C++, C#, Javascript, Prolog, HTML, CSS, Javascript, Typescript, Q#, Qiskit, Node, MongoDB, Angular, React, Verilog, Kotlin, Express***. I am learning new techniques and various approaches of ***Artificial Intelligence, Machine Learning, Deep Learning*** and as a ***Full Stack Web Developer***. I have ***mastered the essence*** of core concepts like ***Data Structures and Algorithm Designs, Operating Systems, Computer Architecuture, Obeject Oreinted Programming*** and many more. I have ***acquired advanced knowledge of Neural Networks, Machine Learning, Deep Learning, Computer Vision, NLTK, NLP, Image Segmentation, Audio and Video Processing, Automation via Python*** and various other approaches. I am a ***technician of various domains*** whether be ***Quantum Computation, Healthcare, Robotics, Astrophysics, Quantum Chemistry*** and much more. I am a programmer which tends to provides ***optimistic solutions to real-world problems*** at quick pace.
-
-<!---
-VishuKalier2003/VishuKalier2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/l4pTsNgkamxfk2ZLq/giphy.gif" width="800" height="450"/>
-</div>
-<div id="badges" align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</div>
 <div align="center">
-   <img src="https://komarev.com/ghpvc/?username=your-github-VishuKalier2003&style=flat-square&color=blue" alt=""/>
+
+```
+██╗   ██╗██╗███████╗██╗  ██╗██╗   ██╗    ██╗  ██╗ █████╗ ██╗     ██╗███████╗██████╗
+██║   ██║██║██╔════╝██║  ██║██║   ██║    ██║ ██╔╝██╔══██╗██║     ██║██╔════╝██╔══██╗
+██║   ██║██║███████╗███████║██║   ██║    █████╔╝ ███████║██║     ██║█████╗  ██████╔╝
+╚██╗ ██╔╝██║╚════██║██╔══██║██║   ██║    ██╔═██╗ ██╔══██║██║     ██║██╔══╝  ██╔══██╗
+ ╚████╔╝ ██║███████║██║  ██║╚██████╔╝    ██║  ██╗██║  ██║███████╗██║███████╗██║  ██║
+  ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚══════╝╚═╝  ╚═╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&lines=Platform+Engineer+%40+Zomato+(Eternal);AI+%2F+ML+Researcher+%40+ISRO+NRSC;Integrated+M.Tech+%7C+AI+%26+ML+%7C+VIT;Full+Stack+%2B+Data+Infrastructure+Engineer;Top+1%25+LeetCode+%7C+Codeforces+Expert" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VishuKalier2003)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-%23000000.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
+[![Gmail](https://img.shields.io/badge/Email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishukalier18082003@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=VishuKalier2003&style=flat-square&color=lightgrey&label=PROFILE+VIEWS" alt="Profile Views"/>
+
 </div>
-<h1>
-  Hello Viewer
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="450"/>
-</div>
-- :telescope: Loves to Invest time in Neural Networks and Deep Learning.
 
-- :seedling: Optmiizing and Dynamically solving Problems using Data Structures is my normal routine.
-
-- :zap: Shows creativity in Web Development (MERN Stack).
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/)
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+## `whoami`
+
+```python
+class VishuKalier:
+    name       = "Vishu Kalier"
+    location   = "Meerut, India"
+    degree     = "Integrated M.Tech (CSE + AI/ML) @ VIT"
+    cgpa       = 9.33
+
+    currently  = [
+        "Platform Engineer Intern @ Zomato (Eternal)",
+        "Building ELT pipelines over 100M+ records",
+        "Mastering Distributed Data Systems",
+    ]
+
+    domains    = [
+        "AI / ML / Deep Learning",
+        "Data Infrastructure & Analytics",
+        "Full Stack Web Development",
+        "Quantum Computing",
+        "Computer Vision & NLP",
+    ]
+
+    achievement = "Top 1% LeetCode | Codeforces Expert | 1200+ Problems"
+```
+
+<br clear="right"/>
+
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VishuKalier2003&theme=dark&background=000000)](https://git.io/streak-stats)
+## 💼 Experience
+
+<details open>
+<summary><b>🟡 Zomato (Eternal) — Platform Engineer Intern</b> &nbsp;|&nbsp; Jan 2026 – Present &nbsp;|&nbsp; Gurugram, India</summary>
+
+<br/>
+
+> **Data Infrastructure and Analytics Transformation Platform**
+
+- Architected migration of **100+ legacy SQL schemas** into scalable **dbt-based ELT pipelines** orchestrated through **80+ Apache Airflow workflows** for enterprise-scale analytics visualized in Grafana.
+- Designed dimensional modeling and transformation layers across **100M+ records** integrating **Trino, StarRocks, and ClickHouse** into DBT and Lightdash powered analytics ecosystems.
+- Engineered automated data ingestion pipelines using **Apache Pinot**, reducing Airflow processing overhead by **40%** through scalable, versioned transformation algorithms.
+
+**Stack:** `dbt` `Apache Airflow` `Apache Pinot` `Trino` `StarRocks` `ClickHouse` `Grafana` `Lightdash`
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🛰️ ISRO — National Remote Sensing Centre, Software Engineering Intern</b> &nbsp;|&nbsp; Sep 2024 – Oct 2024 &nbsp;|&nbsp; Hyderabad, India</summary>
+
+<br/>
+
+> **Urban Solar Energy Output Estimation and Quantification**
+
+- Developed CV and deep learning pipelines using **OpenCV, KerasCV, Transformer models, HED, and YOLO** architectures across **10k+ satellite imagery datasets** spanning 10 metropolitan regions.
+- Evaluated ensemble-based predictive detection models with **93% accuracy** and presented analytical findings to the **Director, Chairman, and senior NRSC research leadership**.
+
+**Stack:** `Python` `OpenCV` `KerasCV` `YOLO` `HED` `TensorFlow` `Satellite Imagery`
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🌍 Omdena — Chapter Lead (Berlin)</b> &nbsp;|&nbsp; Mar 2023 – Jun 2024 &nbsp;|&nbsp; Remote</summary>
+
+<br/>
+
+> **Extreme Weather Forecasting and Time-Series Analytics**
+
+- Led cross-country collaboration architecting large-scale preprocessing workflows on **1M+ climate records** using Pandas and NumPy pipelines.
+- Directed development of forecasting systems using **LSTM, U-Net, and Fourier Neural Operator** architectures for 14-day weather prediction tasks.
+
+**Stack:** `Python` `LSTM` `U-Net` `Fourier Neural Operators` `Pandas` `NumPy`
+
+</details>
+
+---
+
+## 🚀 Featured Project
+
+### 🔵 Recruit Sphere — Workflow Automation & Analytics Platform
+
+> NLP-driven recruitment intelligence with end-to-end automation
+
+- Built **NLP-driven resume parsing** and workflow automation services using **Node.js, spaCy, and Google Docs API** for scalable candidate profiling and analytics pipelines.
+- Engineered automated reporting and data visualization workflows integrating **AWS QuickSight and Tableau** dashboards across distributed task management systems.
+
+**Stack:** `Node.js` `spaCy` `NLP` `AWS QuickSight` `Tableau` `Google Docs API`
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=flat-square&logo=kotlin&logoColor=white)
+![Q#](https://img.shields.io/badge/Q%23-000000?style=flat-square&logo=microsoft&logoColor=white)
+
+### AI / ML / Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-000000?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-000000?style=flat-square&logo=python&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-000000?style=flat-square&logo=spacy&logoColor=white)
+
+### Data Infrastructure & Cloud
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-000000?style=flat-square&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-000000?style=flat-square&logo=dbt&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-000000?style=flat-square&logo=clickhouse&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonwebservices&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-000000?style=flat-square&logo=googlebigquery&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=white)
+
+### Web & Backend
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-000000?style=flat-square&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=springboot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VishuKalier2003&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishuKalier2003&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&border_color=333333"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VishuKalier2003&theme=dark&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&border=333333)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  🥇  Top 1% on LeetCode                                         │
+│  ⚡  Expert Rating on Codeforces                                 │
+│  📐  1200+ DSA Problems Solved across platforms                  │
+│  🛰️  Research presented to ISRO NRSC Director & Chairman         │
+│  🎓  CGPA: 9.33 / 10 — Integrated M.Tech, VIT                   │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🔭 Research & Exploration Domains
+
+<div align="center">
+
+| Domain | Focus |
+|---|---|
+| 🧠 Deep Learning | CNNs, LSTMs, Transformers, U-Net, FNO |
+| 👁️ Computer Vision | YOLO, HED, KerasCV, Image Segmentation |
+| 🌐 NLP | spaCy, NLTK, Named Entity Recognition |
+| ☁️ Data Infrastructure | ELT/ETL, Data Lakehouses, Distributed Systems |
+| ⚛️ Quantum Computing | Q#, Qiskit, Quantum Algorithms |
+| 🌦️ Climate AI | Weather Forecasting, Time-Series Analytics |
+| 🛰️ Remote Sensing | Satellite Imagery, Solar Energy Quantification |
+
+</div>
+
+---
+
+<div align="center">
+
+```
+"Code is not just instructions for machines — it is the language of ideas."
+                                                          — Vishu Kalier
+```
+
+<br/>
+
+**Let's build something that matters.**
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/Send_an_Email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishukalier18082003@gmail.com)
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
+</div>
