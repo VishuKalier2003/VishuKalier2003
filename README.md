@@ -166,12 +166,6 @@ class VishuKalier:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VishuKalier2003&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333&hide_border=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishuKalier2003&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&border_color=333333"/>
-
-</div>
 
 <div align="center">
 
